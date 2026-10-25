@@ -113,8 +113,13 @@ The project will be considered successful when:
 - The Power BI project file is organized and ready for demonstration or assessment.
 
 
-### Insights
+## Dashboard
 
 <img width="834" height="474" alt="Screenshot 2026-10-25 144811" src="https://github.com/user-attachments/assets/c56d01bc-3368-4a2c-8a54-b4594044f2c5" />
+you can download the file clicking on the TRANSACTION ANALYSIS file above the page 
 
+## Insight 
+Over the years about 30% of products were shipped to customers early while about 60% to 70% were shipped to customers late. 
+
+For Delivery 30% of products were delivered to customers on Quick Delivery While 70% were shipped late.  
 
