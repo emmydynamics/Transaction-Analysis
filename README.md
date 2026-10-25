@@ -111,3 +111,10 @@ The project will be considered successful when:
 - The analysis identifies meaningful performance patterns or explains when the available data is insufficient.
 - Recommendations are supported by evidence from the analysis.
 - The Power BI project file is organized and ready for demonstration or assessment.
+
+
+### Insights
+
+<img width="834" height="474" alt="Screenshot 2026-10-25 144811" src="https://github.com/user-attachments/assets/c56d01bc-3368-4a2c-8a54-b4594044f2c5" />
+
+
